@@ -1,2 +1,1 @@
-# UPTE
-Repository holding projects related to UPTE
+This repo holds projects related to my work with UPTE.
